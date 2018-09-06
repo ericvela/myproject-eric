@@ -1,2 +1,2 @@
-# myprojecteric
+# myproject-eric
 Class practice
